@@ -91,13 +91,9 @@ h1 {
   background-color: #1ebe57;
 }
 
-/* Warna Instagram */
-.social-icons a.instagram {
-  background: radial-gradient(circle at 30% 30%, #fdf497 0%, #fd5949 45%, #d6249f 70%, #285AEB 100%);
-}
-
 .social-icons a.instagram:hover {
   opacity: 0.8;
 }
+
 
 
